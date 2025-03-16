@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continuous_Learning_Booking", "Continuous_Learning_Booking.csproj", "{8B2D38EC-48E3-43B8-ACC2-DF6215C1A36C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B2D38EC-48E3-43B8-ACC2-DF6215C1A36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2D38EC-48E3-43B8-ACC2-DF6215C1A36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2D38EC-48E3-43B8-ACC2-DF6215C1A36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2D38EC-48E3-43B8-ACC2-DF6215C1A36C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1214A00-B443-4AFD-B2A0-57DF6BD7E692}
+	EndGlobalSection
+EndGlobal

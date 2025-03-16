@@ -1,0 +1,6 @@
+@Continuous_Learning_Booking_HostAddress = http://localhost:5038
+
+GET {{Continuous_Learning_Booking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Continuous_Learning_Booking.props" />
+</Project>
