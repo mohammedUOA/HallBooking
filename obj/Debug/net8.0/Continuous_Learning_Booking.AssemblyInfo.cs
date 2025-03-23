@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("be645a55-daf8-4e50-83d4-4640164a5f86")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Continuous_Learning_Booking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5df0ce2bdfd867587db5b47369e56113b481f3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c390ca7c28bffe08fbfe46b82277e63a307d31")]
 [assembly: System.Reflection.AssemblyProductAttribute("Continuous_Learning_Booking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Continuous_Learning_Booking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

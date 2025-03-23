@@ -1,0 +1,9 @@
+[build]
+builder="dockerfile"
+dockerfilePath="./Continuous_Learning_Booking/Dockerfile"
+
+[deploy]
+startCommand="./Continuous_Learning_Booking"
+restartPolicyType="always"
+healthcheckPath="/health"
+

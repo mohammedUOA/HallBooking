@@ -2,6 +2,9 @@ using Continuous_Learning_Booking.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+var port = Environment.GetEnvironmentVariable("port") ?? "8080";
+builder.WebHost.UseUrls($"http://*:{port}");
+builder.Services.AddHealthChecks();
 
 // Add services to the container.
 builder.Services.AddDbContext<AppDbContext>(options =>
@@ -47,5 +50,6 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+app.UseHealthChecks("/health");
 
 app.Run();

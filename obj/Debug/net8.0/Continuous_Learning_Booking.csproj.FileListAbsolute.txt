@@ -165,3 +165,4 @@ C:\Users\Mohammed\source\repos\Continuous_Learning_Booking\bin\Debug\net8.0\Cont
 C:\Users\Mohammed\source\repos\Continuous_Learning_Booking\bin\Debug\net8.0\System.Formats.Asn1.dll
 C:\Users\Mohammed\source\repos\Continuous_Learning_Booking\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Mohammed\source\repos\Continuous_Learning_Booking\obj\Debug\net8.0\staticwebassets\msbuild.Continuous_Learning_Booking.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Mohammed\source\repos\Continuous_Learning_Booking\obj\Debug\net8.0\Continuous_Learning_Booking.sourcelink.json
