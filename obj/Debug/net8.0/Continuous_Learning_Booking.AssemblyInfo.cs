@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Continuous_Learning_Booking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c390ca7c28bffe08fbfe46b82277e63a307d31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdb058f40f9fd96727a1415650318bfddcaa4f1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Continuous_Learning_Booking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Continuous_Learning_Booking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
